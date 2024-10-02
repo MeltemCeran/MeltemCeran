@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meltemceran&label=Profile%20views&color=0e75b6&style=flat" alt="meltemceran" /> </p>
 
-- 🌱 I’m currently learning **C#, Mssql, Windows Form**
+- 🌱 I’m currently learning **C#, Mssql, Windows Form, Entity FrameWork**
 
 - 📫 How to reach me **mltm.crn@gmail.com**
 
