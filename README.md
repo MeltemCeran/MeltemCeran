@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meltemceran&label=Profile%20views&color=0e75b6&style=flat" alt="meltemceran" /> </p>
 
-- 🌱 I’m currently learning **C#, Mssql,N-Tier Architecture**
+- 🌱 I’m currently learning **C#, Mssql,N-Tier Architecture, ASP .NET MVC**
 
 - 📫 How to reach me **mltm.crn@gmail.com**
 
